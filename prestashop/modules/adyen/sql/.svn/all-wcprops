@@ -1,7 +1,0 @@
-END
-install.sql
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/!svn/ver/17729/client/trunk/plugin/prestashop/modules/adyen/sql/install.sql
-END

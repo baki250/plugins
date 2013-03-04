@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17726/client/trunk/plugin/prestashop/modules/adyen
+END
+payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/22099/client/trunk/plugin/prestashop/modules/adyen/payment.php
+END
+submit.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/22099/client/trunk/plugin/prestashop/modules/adyen/submit.php
+END
+en.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/22099/client/trunk/plugin/prestashop/modules/adyen/en.php
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/22099/client/trunk/plugin/prestashop/modules/adyen/CHANGES.txt
+END
+notification.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/22099/client/trunk/plugin/prestashop/modules/adyen/notification.php
+END
+fr.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/22099/client/trunk/plugin/prestashop/modules/adyen/fr.php
+END
+adyen.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/22099/client/trunk/plugin/prestashop/modules/adyen/adyen.php
+END
+confirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/22099/client/trunk/plugin/prestashop/modules/adyen/confirm.php
+END

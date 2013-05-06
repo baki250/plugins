@@ -1,10 +1,10 @@
 {capture name=path}<a href="{$base_dir_ssl}order.php">{l s='Your shopping cart' mod='adyen'}</a><span class="navigation-pipe">{$navigationPipe}</span>{l s='Adyen' mod='adyen'}{/capture}
-{include file=$tpl_dir./breadcrumb.tpl}
+{include file="$tpl_dir./breadcrumb.tpl"}
 
 <h2>{l s='Order summary' mod='adyen'}</h2>
 
 {assign var='current_step' value='payment'}
-{include file=$tpl_dir./order-steps.tpl}
+{include file="$tpl_dir./order-steps.tpl"}
 
 <h3>{l s='Adyen payment' mod='adyen'}</h3>
 <form action="{$this_path_ssl}{$mode}submit.php" method="post">
